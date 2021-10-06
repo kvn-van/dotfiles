@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/kevin/.config'
+let g:netrw_dirhist_8='/home/kevin/Google Drive/University/CAB403 - Systems Programming/Topic 01 - Introduction'
+let g:netrw_dirhist_7='/home/kevin/Google Drive/University/CAB403 - Systems Programming'
+let g:netrw_dirhist_6='/home/kevin'
+let g:netrw_dirhist_5='/home'
+let g:netrw_dirhist_4='/home/kevin'
+let g:netrw_dirhist_3='/home/kevin/.zoom'
+let g:netrw_dirhist_2='/home/kevin'
+let g:netrw_dirhist_1='/home/kevin/.cargo'
+let g:netrw_dirhist_0='/home/kevin/.cargo/env'
